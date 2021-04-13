@@ -1,2 +1,5 @@
 .DS_Store
 dist/
+grid.svg
+image.png
+__pycache__/
