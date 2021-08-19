@@ -1,3 +1,3 @@
 Usage: `python app.py`
 
-Required packages: `Pillow, swgwrite, svglib, reportlab`.
+Required packages: `Pillow, svgwrite, svglib, reportlab`.
